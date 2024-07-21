@@ -51,29 +51,16 @@ To get a local copy up and running, follow these simple steps.
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/react-mini-projects.git
+   git clone https://github.com/susisarvesh/React-miinii.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd react-mini-projects
+   cd rec
    ```
 3. Install the dependencies:
    ```sh
    npm install
    ```
-
-## Usage
-
-Each project is located in its own directory within the repository. To run a specific project, navigate to its directory and start the development server.
-
-For example, to run the To-Do List project:
-```sh
-cd todo-list
-npm start
-```
-
-Repeat the above steps for any other project you wish to run.
-
 ## Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
