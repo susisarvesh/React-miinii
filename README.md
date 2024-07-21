@@ -10,13 +10,8 @@ Welcome to the **React Mini Projects** repository! This collection features vari
 
 - [Introduction](#introduction)
 - [Projects](#projects)
-  - [Project 1: To-Do List](#project-1-to-do-list)
-  - [Project 2: Weather App](#project-2-weather-app)
-  - [Project 3: Calculator](#project-3-calculator)
-  - [Project 4: Movie Search](#project-4-movie-search)
 - [Getting Started](#getting-started)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -76,5 +71,3 @@ Contributions are what make the open-source community such an amazing place to l
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
-
-Feel free to customize the `README.md` as per your specific needs and projects.
